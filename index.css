@@ -1,0 +1,18 @@
+.mainHeading {
+    background-color: #2d3a8c;
+    color: #fff;
+    font-family: Roboto;
+}
+
+.addingCard {
+    background-color: #cbd2d9;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: Roboto;
+}
+
+.errorClass {
+    color: #dc3545;
+    font-family: Roboto;
+}
